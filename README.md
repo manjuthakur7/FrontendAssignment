@@ -1,2 +1,2 @@
 # FrontendAssignment
-My assignemnt for Quicksell
+My assignment for Quicksell
